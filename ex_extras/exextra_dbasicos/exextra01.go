@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var quilometros int16
+	var quilometros int
 	quilometros = 150
 
 	fmt.Println(quilometros)
